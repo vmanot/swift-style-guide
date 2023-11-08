@@ -1,6 +1,6 @@
 # Swift Style Guide
 
->"Fashion is a form of ugliness so intolerable that we have to alter it every six months."
+>["Fashion is a form of ugliness so intolerable that we have to alter it every six months."](https://www.goodreads.com/quotes/5298-fashion-is-a-form-of-ugliness-so-intolerable-that-we).
 >
 >― **Oscar Wilde**
 
